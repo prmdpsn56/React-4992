@@ -3,7 +3,7 @@
 ## React
 ### A java script Library for building user interface
 
-React is a JavaScript library for building user interfaces
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
 React makes it easier to create interactive interfaces. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
 
 You can use the [editor on GitHub](https://github.com/prmdpsn56/React-4992/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
