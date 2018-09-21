@@ -1,5 +1,5 @@
 ## React
-###A java script Library for building user interfaces
+### A java script Library for building user interfaces
 
 You can use the [editor on GitHub](https://github.com/prmdpsn56/React-4992/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
