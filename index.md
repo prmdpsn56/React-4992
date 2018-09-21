@@ -1,6 +1,17 @@
 ## React
 ### A java script Library for building user interfaces
 
+Declarative
+React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+
+Declarative views make your code more predictable and easier to debug
+
+Component-Based
+Build encapsulated components that manage their own state, then compose them to make complex UIs.
+
+Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM
+
 You can use the [editor on GitHub](https://github.com/prmdpsn56/React-4992/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
