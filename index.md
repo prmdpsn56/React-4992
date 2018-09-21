@@ -8,9 +8,7 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 React makes it easier to create interactive interfaces. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API.
 
 
-You can use the [editor on GitHub](https://github.com/prmdpsn56/React-4992/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-. Design smple
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
