@@ -14,11 +14,11 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 React makes it easier to create interactive interfaces. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API.
 
 ## Strengths
-## 1.Performance
-## 2.Server-side rendering
-## 3.Native GUI
-## 4.Simplicity
-## 5.Library Approach(pick and choose what to combine it with)
+### 1.Performance
+### 2.Server-side rendering
+### 3.Native GUI
+### 4.Simplicity
+### 5.Library Approach(pick and choose what to combine it with)
 
 ![Image](https://www.collonmade.com/wp-content/uploads/2017/08/React-JS.jpg)
 
@@ -35,34 +35,5 @@ Reactive Core architecture for React Native and React applications
 Pharmacy management system aims at providing a simpler management system to the pharmacy owners. The idea behind was to create a simpler management system for pharmacy owners in Asia where every pharmacy owner runs their business individually. The system will show the sale record of the pharmacy and will help the owners to maintain their stock.The idea behind the approach was to use the data from sales in pharmacy to manage their stocks, profit/loss and also to see the sale trends of different medicines. The record will help the shop owners to manage their business and will also show the different pattern in sales of medicines in different regions. The sales pattern of different medicines will help to predict the health problem and also to see what type of medicine people prefer when multiple options are available in the market.React will be used to build the interface of the prototype.We will be using rect to make data visualisation more interactive so that it is easy for the user to get and idea about their stocks and business.The data regarding the sales for aparticular medicine will be our main focus.To show that which medicine has the highest sales in comparison to similar medicines for the same purpose.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://cdn-images-1.medium.com/max/2000/1*_DOHv30w-0eI-Ysz5U47Yg.png)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prmdpsn56/React-4992/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
