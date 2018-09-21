@@ -14,7 +14,12 @@ Reactive Core architecture for React Native and React applications
 ![Image](https://cdn-images-1.medium.com/max/1862/1*jMpdj2y5rayiwlQ8YNTs5A.jpeg)
 
 
-### Markdown
+
+
+
+
+## Prototype
+Pharmacy management system aims at providing a simpler management system to the pharmacy owners. The idea behind was to create a simpler management system for pharmacy owners in Asia where every pharmacy owner runs their business individually. The system will show the sale record of the pharmacy and will help the owners to maintain their stock.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
