@@ -3,6 +3,12 @@
 ## React
 ### A java script Library for building user interface
 
+React was created by Jordan Walke, a software engineer at Facebook. He was influenced by XHP, an HTML component framework for PHP.It was first deployed on Facebook's newsfeed in 2011 and later on Instagram.com in 2012.It was open-sourced at JSConf US in May 2013.
+
+React Native, which enables native Android, iOS, and UWP development with React, was announced at Facebook's React.js Conf in February 2015 and open-sourced in March 2015.
+
+On April 18, 2017, Facebook announced React Fiber, a new core algorithm of React framework library for building user interfaces.React Fiber was to become the foundation of any future improvements and feature development of the React framework
+
 React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.It is maintained by Facebook and a community of individual developers and companies.
 
 React makes it easier to create interactive interfaces. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API.
