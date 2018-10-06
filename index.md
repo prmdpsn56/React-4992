@@ -51,5 +51,6 @@ Pharmacy management system aims at providing a simpler management system to the 
 
 [Udemy](https://www.udemy.com/react-redux/learn/v4/overview)
 
+[User-Stories](https://github.com/prmdpsn56/React-4992/blob/master/userstories)
 
 
