@@ -45,11 +45,11 @@ Pharmacy management system aims at providing a simpler management system to the 
 [Lets go to Quora](https://www.quora.com)
 #### Resources
 
-Lynda - https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html
+[Lynda](https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html)
 
-YouTube - https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS
+[YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
 
-Udemy - https://www.udemy.com/react-redux/learn/v4/overview
+[Udemy](https://www.udemy.com/react-redux/learn/v4/overview)
 
 
 
