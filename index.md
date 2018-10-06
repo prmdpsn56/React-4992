@@ -38,6 +38,7 @@ Pharmacy management system aims at providing a simpler management system to the 
 ![Image](http://voidcanvas.com/wp-content/uploads/2018/01/react-easy-chart.png)
 ![Image](http://voidcanvas.com/wp-content/uploads/2018/01/reChart.png)
 
+![user stories](https://user-images.githubusercontent.com/41308248/46567883-96a67e00-c8f0-11e8-8e63-4610348b9286.jpg)
 
 
 
@@ -50,4 +51,3 @@ Pharmacy management system aims at providing a simpler management system to the 
 [Udemy](https://www.udemy.com/react-redux/learn/v4/overview)
 
 
-![user stories](https://user-images.githubusercontent.com/41308248/46567883-96a67e00-c8f0-11e8-8e63-4610348b9286.jpg)
