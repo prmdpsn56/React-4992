@@ -43,13 +43,13 @@ Pharmacy management system aims at providing a simpler management system to the 
 
 
 
-## Resources
+#### Resources
 
-### Lynda - https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html
+#### Lynda - https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html
 
-### YouTube - https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS
+#### YouTube - https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS
 
-### Udemy - https://www.udemy.com/react-redux/learn/v4/overview
+#### Udemy - https://www.udemy.com/react-redux/learn/v4/overview
 
 
 
