@@ -54,12 +54,18 @@ Pharmacy management system aims at providing a simpler management system to the 
 
 [User-Stories](https://github.com/prmdpsn56/React-4992/blob/master/userstories)
 
-
+<style>
+ .row{
+    color=red; 
+      }
+      
+      
+</style>
 
 <div class="container marketing">
 
       
- <div class="row">
+<div class="row">
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Heading</h2>
