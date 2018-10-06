@@ -42,7 +42,7 @@ Pharmacy management system aims at providing a simpler management system to the 
 
 
 
-[Lets go to Quora](https://www.quora.com)
+
 #### Resources
 
 [Lynda](https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html)
