@@ -46,6 +46,10 @@ Pharmacy management system aims at providing a simpler management system to the 
 
 [Progress Report](https://prmdpsn56.github.io/userstories/)
 
+[User Stories](https://prmdpsn56.github.io/project-user-stories/)
+
+
+
 
 #### Resources
 
